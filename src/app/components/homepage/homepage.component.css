@@ -1,0 +1,61 @@
+
+
+div.header {
+  border-top: 4px solid #ff5500;
+  margin: 0 auto;
+  padding-left: 0;
+  padding-right:0;
+}
+
+button {
+  position: absolute;
+  color: aliceblue;
+
+
+}
+
+button.signIn {
+  background-color: transparent;
+  border: 1px solid aliceblue;
+  left: 80%;
+  top: 5%;
+
+}
+
+button.createAccount {
+  background-color: #FF4A00;
+  border: none;
+  left: 88%;
+  top: 5%
+}
+
+button.signUp {
+  background-color: #FF4A00;
+  border: none;
+  left: 38%;
+  top: 57%
+}
+button:hover {
+  opacity: 0.5;
+  transition-duration: .3s;
+
+}
+
+.headerTitle {
+  position: absolute;
+  left:23%;
+  top:30%
+}
+
+h3.headerTitle {
+  color: white;
+}
+
+p.headerText {
+  color: whitesmoke;
+}
+
+img {
+  width:100%;
+}
+
